@@ -1,0 +1,8 @@
+package: github.com/tamalsaha/kdetectw
+import:
+- package: k8s.io/apimachinery
+  version: kubernetes-1.13.0
+- package: k8s.io/client-go
+  version: v10.0.0
+- package: kmodules.xyz/client-go
+  version: release-10.0
